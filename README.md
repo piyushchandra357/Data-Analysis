@@ -1,6 +1,6 @@
-## Data-Analysis
+# Data-Analysis
 
-# The ultimate Data Analysis Beginner Repository 
+## The ultimate Data Analysis Beginner Repository 
 
 All sections which comes under data analysis 
 you will get all the topics here with complete explanation as well as examples .
@@ -21,4 +21,4 @@ you will get all the topics here with complete explanation as well as examples .
 14) RandomForest
 15) XGBoost
 
-# After Completing all these Section anyone can make there own Data Analysis Project.
+### After Completing all these Section anyone can make there own Data Analysis Project.
