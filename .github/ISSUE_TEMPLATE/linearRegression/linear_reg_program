@@ -49,3 +49,16 @@ j_history, theta_final = gradientDescent(X, y, alpha = 0.01, number_iterations=1
 print('Cost function j_history size: ', np.size(j_history))
 print('Final value of Theta size: ', theta_final)
 
+plt.plot(j_history)
+plt.xlabel('Number of iterations')
+plt.ylabel('Cost values J')
+plt.title('Cost Vs Iterations')
+plt.show()
+
+X_values = [X for X in range(25)]
+y_values = [y*theta_final[1]+theta_final[0] for y in X_values]
+plt.plot(X_values, y_values)
+plt.xlabel('Goods vslues')
+plt.ylabel('Profit')
+plt.title('Fitting prediction line on Data')
+plt.show()
