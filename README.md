@@ -14,11 +14,14 @@ you will get all the topics here with complete explanation as well as examples .
 7) Missing Value Treatment
 8) Feature Engineering
 9) Encoding Categorical Variables
-10) PreProcessing Data
-11) Modeling
-12) Linear Regression
-13) Regularized Linear Regression
-14) RandomForest
-15) XGBoost
+10) Outlier treatment
+11) Correlation Analysis
+12) Dimensionality Reduction
+13) PreProcessing Data
+14) Modeling
+15) Linear Regression
+16) Regularized Linear Regression
+17) RandomForest
+18) XGBoost
 
 ### After Completing all these Section anyone can make there own Data Analysis Project.
